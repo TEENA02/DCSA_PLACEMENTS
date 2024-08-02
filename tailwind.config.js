@@ -13,6 +13,9 @@ export default {
         'cs-gray': '#1A202C',
         'cs-green': '#48BB78',
       },
+      fontFamily: {
+        sans: ['Poppins', 'sans-serif'],
+      },
     },
   },
   plugins: [],
