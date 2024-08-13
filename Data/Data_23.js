@@ -30,11 +30,11 @@ export const company={
     ]
 }
 export const student={
-    labels:["Student Eligible","Student Placed"],
+    labels:["Student Placed","Student not Placed"],
     datasets:[
         {
-        label:"Total Strength",
-        data:[110,94],
+        label:"Strength",
+        data:[85.5,14.5],
            backgroundColor:["rgba(255,206,86,0.9)",
             "rgba(75,192,192,0.9)",
         ],
